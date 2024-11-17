@@ -12,7 +12,7 @@ This is a simple puzzle game built with Python and Pygame. The game allows playe
 
 3. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/EmanIshtawi/Game
    ```
 
 ## How to Play
